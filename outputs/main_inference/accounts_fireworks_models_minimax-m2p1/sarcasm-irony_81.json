@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_81",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.85,
+    "arousal": 0.65,
+    "dominance": -0.7,
+    "confidence": 0.92
+  },
+  "latency_ms": 2863.4443283081055,
+  "timestamp": "2026-02-01T03:52:51.499496"
+}

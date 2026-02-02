@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_235",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": 0.7,
+    "confidence": 0.85
+  },
+  "latency_ms": 2320.840835571289,
+  "timestamp": "2026-02-01T03:46:27.869672"
+}

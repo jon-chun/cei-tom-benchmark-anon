@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_50",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.5,
+    "dominance": 0.4,
+    "confidence": 0.8
+  },
+  "latency_ms": 3583.4410190582275,
+  "timestamp": "2026-02-01T03:38:14.657403",
+  "prompt_hash": "cacb7dadaa8c8f322e823e512adb2b1fee7b41681097292c5622161ff7afb502",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:38:14.657458"
+}

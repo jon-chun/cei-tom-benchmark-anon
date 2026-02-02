@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_173",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.4,
+    "dominance": 0.3,
+    "confidence": 0.8
+  },
+  "latency_ms": 1430.1979541778564,
+  "timestamp": "2026-02-01T03:30:15.623972",
+  "prompt_hash": "1fd6fd8552a0b7b4da2d74119c00aa4b15150279c334919e69213e866f7432b9",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:30:15.624018"
+}

@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_245",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.3,
+    "dominance": -0.6,
+    "confidence": 0.85
+  },
+  "latency_ms": 2059.910774230957,
+  "timestamp": "2026-02-01T03:47:14.286911"
+}

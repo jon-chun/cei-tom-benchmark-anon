@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_99",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.7,
+    "dominance": 0.3,
+    "confidence": 0.95
+  },
+  "latency_ms": 4912.8899574279785,
+  "timestamp": "2026-02-01T03:32:18.709359",
+  "prompt_hash": "fe1086884938925a08c5f3f38ff2b5ceb854d70d8b5a910265b1c205663e8116",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:32:18.709408"
+}

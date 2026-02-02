@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_71",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anticipation",
+    "valence": 0.2,
+    "arousal": 0.5,
+    "dominance": 0.3,
+    "confidence": 0.85
+  },
+  "latency_ms": 1331.2158584594727,
+  "timestamp": "2026-02-01T03:43:08.960598",
+  "prompt_hash": "74c7cc481f7aa2cf7ab45bdd8d1b09d47072839787b36f8f58def24c5df53890",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:43:08.960753"
+}

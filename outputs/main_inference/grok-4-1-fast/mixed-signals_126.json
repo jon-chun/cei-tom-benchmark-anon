@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_126",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.75,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.9
+  },
+  "latency_ms": 13807.761192321777,
+  "timestamp": "2026-02-01T03:23:25.563243",
+  "prompt_hash": "68ca9be637795d040a8b5263f15501030d27a63f31674ffd5d668ca74a035ff2",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:23:25.563314"
+}

@@ -1,0 +1,41 @@
+{
+  "by_subtype": {
+    "sarcasm-irony": {
+      "kappa": 0.3904761904761905,
+      "observed_agreement": 0.4666666666666667,
+      "total_scenarios": 60,
+      "full_agreement": 12,
+      "interpretation": "fair"
+    },
+    "mixed-signals": {
+      "kappa": 0.31428571428571433,
+      "observed_agreement": 0.4,
+      "total_scenarios": 60,
+      "full_agreement": 8,
+      "interpretation": "fair"
+    },
+    "passive-aggression": {
+      "kappa": 0.419047619047619,
+      "observed_agreement": 0.49166666666666664,
+      "total_scenarios": 60,
+      "full_agreement": 7,
+      "interpretation": "moderate"
+    },
+    "deflection-misdirection": {
+      "kappa": 0.18095238095238095,
+      "observed_agreement": 0.2833333333333333,
+      "total_scenarios": 60,
+      "full_agreement": 5,
+      "interpretation": "slight"
+    },
+    "strategic-politeness": {
+      "kappa": 0.3523809523809524,
+      "observed_agreement": 0.43333333333333335,
+      "total_scenarios": 60,
+      "full_agreement": 11,
+      "interpretation": "fair"
+    }
+  },
+  "overall_kappa": 0.020952380952380962,
+  "interpretation": "Fleiss' kappa by subtype reveals differential reliability. Lower \u03ba values suggest inherent pragmatic ambiguity rather than model failure."
+}

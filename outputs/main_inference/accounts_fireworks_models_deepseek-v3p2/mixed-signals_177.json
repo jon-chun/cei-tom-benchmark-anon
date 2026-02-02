@@ -1,0 +1,17 @@
+{
+  "scenario_id": "mixed-signals_177",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.623955994386528,
+    "arousal": 0.7299622512319419,
+    "dominance": 0.3336872690187753,
+    "confidence": 0.5311426691439646
+  },
+  "latency_ms": 242.883131235628,
+  "timestamp": "2026-02-01T10:26:49.443737",
+  "_retried": true,
+  "_simulated": true
+}

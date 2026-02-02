@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_125",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.5,
+    "arousal": 0.4,
+    "dominance": 0.6,
+    "confidence": 0.9
+  },
+  "latency_ms": 15279.103994369507,
+  "timestamp": "2026-02-01T04:15:17.291373"
+}

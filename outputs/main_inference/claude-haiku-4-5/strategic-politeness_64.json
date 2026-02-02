@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_64",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "sadness",
+    "valence": -0.3,
+    "arousal": 0.2,
+    "dominance": -0.4,
+    "confidence": 0.82
+  },
+  "latency_ms": 5121.830701828003,
+  "timestamp": "2026-02-01T04:00:24.761952"
+}

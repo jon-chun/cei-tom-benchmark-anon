@@ -1,0 +1,19 @@
+{
+  "scenario_id": "passive-aggression_21",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.65,
+    "arousal": 0.45,
+    "dominance": -0.55,
+    "confidence": 0.85,
+    "_original_emotion": "guilt",
+    "_repair_rationale": "Self-directed negative emotion, Plutchik secondary"
+  },
+  "latency_ms": 3750.07700920105,
+  "timestamp": "2026-02-01T03:51:43.181047",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.690742"
+}

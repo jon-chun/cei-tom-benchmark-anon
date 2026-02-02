@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_135",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "sadness",
+    "valence": -0.6,
+    "arousal": 0.3,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 4526.13091468811,
+  "timestamp": "2026-02-01T03:57:09.616218"
+}

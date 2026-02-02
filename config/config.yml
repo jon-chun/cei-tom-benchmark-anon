@@ -1,0 +1,299 @@
+# CEI-ToM Configuration
+# Venue 2026: Pragmatic Inefficiency in Language Models
+
+project:
+  name: "CEI-ToM"
+  version: "1.0.0"
+  paper: "Venue 2026"
+
+# =============================================================================
+# PIPELINE CONFIGURATION
+# =============================================================================
+pipeline:
+  type: "venue26"
+
+  # Execution mode: "test" (single model) or "complete" (all models)
+  execution_mode: "complete"
+
+  dry_run: false
+  verbose: true
+  checkpoint_enabled: true
+
+  # Stage-specific configurations (referenced by get_stage_config)
+  stages:
+    config_test:
+      enabled: true
+    pilot_test:
+      enabled: true
+      sample_percent: 10
+    main_inference:
+      enabled: true
+      checkpoint_interval: 100
+      use_cache: true
+      resume_from_checkpoint: true
+    supplementary_inference:
+      enabled: true
+    data_qa:
+      enabled: true
+    fix_data:
+      enabled: true
+    transform_data:
+      enabled: true
+    analyze_data:
+      enabled: true
+    visualize_data:
+      enabled: true
+
+  # API call limits and retry configuration
+  api_limits:
+    api_model_max_ct: 4000
+    api_total_max_ct: 15000
+    api_retry_max: 3
+    backoff_base_seconds: 2.0
+    backoff_max_seconds: 60.0
+    jitter_factor: 0.25
+    # Circuit breaker: drop model from ensemble after N consecutive failures
+    consecutive_fail_threshold: 100
+    # Progress reporting: milestone printed at EITHER threshold (whichever comes first)
+    progress_report_interval_pct: 5      # Print milestone every N% completion
+    progress_report_interval_seconds: 300  # Print milestone every N seconds (300 = 5 min)
+
+# =============================================================================
+# HUMAN DATA ANALYSIS CONFIGURATION
+# =============================================================================
+human_analysis:
+  # Inter-annotator agreement
+  compute_fleiss_kappa: true
+  compute_cohens_kappa: true
+
+  # Statistics
+  bootstrap_resamples: 10000
+  confidence_level: 0.95
+
+  # Outputs
+  generate_figures: true
+  generate_tables: true
+  figure_formats: ["pdf", "png"]
+
+  # Analysis breakdowns
+  by_subtype: true
+  by_power_relation: true
+  by_annotator: true
+
+# =============================================================================
+# LLM INFERENCE CONFIGURATION
+# =============================================================================
+llm_inference:
+  # Model sets by execution mode
+  models:
+    # TEST mode: single model for quick validation
+    test:
+      - id: "gpt-5-mini"
+        provider: "openai"
+
+    # COMPLETE mode: all models from paper
+    complete:
+      # Commercial API models
+      - id: "gpt-5-mini"
+        provider: "openai"
+      - id: "claude-haiku-4-5"
+        provider: "anthropic"
+      - id: "grok-4-1-fast"
+        provider: "xai"
+      - id: "gemini-3-flash-preview"
+        provider: "google"
+      # Open-source models via API providers
+      - id: "accounts/fireworks/models/kimi-k2-instruct-0905"
+        provider: "fireworks"
+      - id: "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507"
+        provider: "fireworks"
+      - id: "accounts/fireworks/models/deepseek-v3p2"
+        provider: "fireworks"
+      - id: "accounts/fireworks/models/minimax-m2p1"
+        provider: "fireworks"
+      - id: "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"
+        provider: "together"
+      - id: "mistralai/Mistral-Small-24B-Instruct-2501"
+        provider: "together"
+      - id: "google/gemma-3n-E4B-it"
+        provider: "together"
+
+  # Inference settings
+  temperature: 0.0
+  max_tokens: 500
+  batch_size: 50
+  checkpoint_interval: 100
+
+  # Retry configuration
+  retry_count: 3
+  retry_delay_seconds: 5
+
+  # Per-provider concurrency limits (max parallel API calls per provider)
+  # These prevent rate limit errors from API vendors
+  provider_limits:
+    openai: 50        # OpenAI has generous rate limits
+    anthropic: 40     # Anthropic fairly generous
+    google: 60        # Google/Gemini high limits
+    xai: 20           # xAI/Grok conservative
+    fireworks: 10     # Fireworks more restrictive
+    together: 10      # Together AI conservative
+    ollama: 5         # Local, limited by hardware
+    default: 5        # Fallback for unknown providers
+
+# =============================================================================
+# COMPARISON ANALYSIS CONFIGURATION
+# =============================================================================
+comparison_analysis:
+  # Human baseline (from paper)
+  human_baseline_accuracy: 0.82
+  human_baseline_ci: [0.78, 0.86]
+
+  # Statistical tests
+  significance_level: 0.05
+  correction_method: "bonferroni"
+  bootstrap_resamples: 10000
+
+  # Metrics to compute
+  metrics:
+    accuracy_gap: true
+    power_asymmetry: true
+    utterance_anchoring: true
+    compositional_drop: true
+    efficiency_ratio: true
+
+  # RSA comparison
+  rsa:
+    enabled: true
+    compute_l0_alignment: true
+    compute_l1_alignment: true
+    rationality_alpha: 1.0
+
+  # Outputs
+  generate_figures: true
+  generate_tables: true
+  generate_report: true
+  figure_formats: ["pdf", "png"]
+
+# =============================================================================
+# PATHS CONFIGURATION
+# =============================================================================
+paths:
+  # Input data
+  gold_data: "data/human-gold-aggregate"
+
+  # Output directories (separated by data source)
+  output_base: "outputs"
+  human_output: "outputs/human"      # Human data analysis outputs
+  llm_output: "outputs/llm"          # LLM inference and analysis outputs
+  comparison_output: "outputs/comparison"  # Human vs LLM comparison outputs
+
+  # Cache
+  cache: "data/cache"
+  response_cache: "data/response_cache"
+
+  # Logs
+  logs: "logs"
+
+# =============================================================================
+# SCHEMA CONFIGURATION
+# =============================================================================
+schema:
+  scenarios_per_subtype: 60
+  total_scenarios: 300
+  annotators_per_scenario: 3
+
+  subtypes:
+    - "sarcasm-irony"
+    - "mixed-signals"
+    - "passive-aggression"
+    - "deflection-misdirection"
+    - "strategic-politeness"
+
+  power_relations:
+    - "peer"
+    - "higher_to_lower"
+    - "lower_to_higher"
+
+  emotions:
+    - "joy"
+    - "trust"
+    - "fear"
+    - "surprise"
+    - "sadness"
+    - "disgust"
+    - "anger"
+    - "anticipation"
+
+# =============================================================================
+# VISUALIZATION CONFIGURATION
+# =============================================================================
+visualization:
+  dpi: 300
+  figure_width: 7.0  # inches (for paper column width)
+  figure_height: 5.0
+  font_family: "serif"
+  font_size: 10
+  colormap: "viridis"
+  style: "paper"
+
+  # Color scheme for power relations
+  power_colors:
+    peer: "#2ecc71"
+    higher_to_lower: "#3498db"
+    lower_to_higher: "#e74c3c"
+
+# =============================================================================
+# REPRODUCIBILITY
+# =============================================================================
+reproducibility:
+  seed: 42
+  deterministic: true
+
+# =============================================================================
+# LOGGING
+# =============================================================================
+logging:
+  level: "INFO"
+  rich_console: true
+  log_to_file: true
+
+# =============================================================================
+# PRICING (USD per 1M tokens) - for cost estimation
+# =============================================================================
+
+pricing_usd_per_1m_tokens:
+  openai:
+    gpt-5-mini: {input: 0.25, output: 2.00}
+    gpt-5-1: {input: 1.25, output: 10.00}
+    gpt-5-2: {input: 1.75, output: 14.00}
+    _default: {input: 1.25, output: 10.00}
+  anthropic:
+    claude-haiku-4-5: {input: 1.00, output: 5.00}
+    claude-sonnet-4-5: {input: 3.00, output: 15.00}
+    _default: {input: 3.00, output: 15.00}
+  google:
+    gemini-3-flash-preview: {input: 0.50, output: 3.00}
+    gemini-3-pro-preview: {input: 2.00, output: 12.00}
+    _default: {input: 2.00, output: 12.00}
+  xai:
+    grok-4-1-fast-non-reasoning: {input: 0.20, output: 0.50}
+    grok-4-1-fast-reasoning: {input: 0.20, output: 0.50}
+    _default: {input: 0.20, output: 0.50}
+  fireworks:
+    deepseek-v3p2: {input: 0.56, output: 1.68}
+    kimi-k2-instruct-0905: {input: 0.60, output: 2.50}
+    kimi-k2-thinking: {input: 0.60, output: 2.50}
+    qwen3-235b-a22b-thinking-2507: {input: 0.22, output: 0.88}
+    qwen3-vl-235b-a22b-instruct: {input: 0.22, output: 0.88}
+    glm-4p6: {input: 0.55, output: 2.19}
+    glm-4p7: {input: 0.60, output: 2.20}
+    minimax-m2: {input: 0.30, output: 1.20}
+    minimax-m2p1: {input: 0.30, output: 1.20}
+    _default: {input: 1.00, output: 5.00}
+  together:
+    meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo: {input: 0.18, output: 0.18}
+    mistralai/Mistral-Small-24B-Instruct-2501: {input: 0.10, output: 0.30}
+    google/gemma-3n-E4B-it: {input: 0.02, output: 0.04}
+    _default: {input: 0.15, output: 0.60}
+  ollama:
+    _default: {input: 0.0, output: 0.0}

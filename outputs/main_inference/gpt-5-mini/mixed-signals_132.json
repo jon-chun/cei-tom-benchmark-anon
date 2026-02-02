@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_132",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.6,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.64,
+    "_original_emotion": "stress",
+    "_repair_rationale": "Physiological fear response"
+  },
+  "latency_ms": 1333.207130432129,
+  "timestamp": "2026-02-01T03:46:10.735835",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.696686"
+}

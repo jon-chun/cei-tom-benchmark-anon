@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_70",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.4,
+    "dominance": -0.6,
+    "confidence": 0.8
+  },
+  "latency_ms": 1523.0319499969482,
+  "timestamp": "2026-02-01T03:21:24.676218",
+  "prompt_hash": "a72f26deaa1c6205d0c8b8d2f35ad9f248f9937289000fcf777af057d61e6da6",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:21:24.676275"
+}

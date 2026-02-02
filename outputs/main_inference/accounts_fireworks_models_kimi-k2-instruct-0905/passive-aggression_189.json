@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_189",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": -0.2,
+    "arousal": 0.4,
+    "dominance": -0.5,
+    "confidence": 0.75
+  },
+  "latency_ms": 1604.330062866211,
+  "timestamp": "2026-02-01T03:48:26.165499"
+}

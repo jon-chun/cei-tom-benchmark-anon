@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_171",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.5,
+    "arousal": 0.6,
+    "dominance": -0.7,
+    "confidence": 0.85
+  },
+  "latency_ms": 2878.17120552063,
+  "timestamp": "2026-02-01T03:46:21.239835"
+}

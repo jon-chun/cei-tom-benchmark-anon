@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_123",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": -0.2,
+    "arousal": 0.1,
+    "dominance": -0.3,
+    "confidence": 0.7,
+    "_original_emotion": "uncertainty",
+    "_repair_rationale": "Unknown threat response"
+  },
+  "latency_ms": 1536.1051559448242,
+  "timestamp": "2026-02-01T03:46:05.879859",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.694349"
+}

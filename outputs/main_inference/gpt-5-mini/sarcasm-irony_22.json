@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_22",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.6,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.78
+  },
+  "latency_ms": 2969.0897464752197,
+  "timestamp": "2026-02-01T03:32:52.093741",
+  "prompt_hash": "b18be329076c8667a2caf198148d7108c82e22597d26e6848750e53087d95409",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:32:52.093796"
+}

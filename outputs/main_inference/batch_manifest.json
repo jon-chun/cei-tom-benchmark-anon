@@ -1,0 +1,2115 @@
+{
+  "timestamp": "2026-02-01T16:38:30.952845",
+  "total_calls": 301,
+  "successful": 301,
+  "failed": 0,
+  "calls": [
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_1",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.898398"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_21",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.898533"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_22",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.898651"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_33",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.898918"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_36",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899025"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_37",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899129"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_40",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899239"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_42",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899346"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_43",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899487"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_46",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899597"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_49",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899714"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_54",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899826"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_55",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.899940"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_60",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900055"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_63",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900156"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_64",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900287"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_70",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900417"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_73",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900562"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_85",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900700"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_90",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900848"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_91",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.900998"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_93",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901143"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_94",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901295"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_97",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901443"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_103",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901570"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_112",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901698"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_118",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901826"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_122",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.901951"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_124",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902068"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_127",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902188"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_129",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902342"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_139",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902466"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_145",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902624"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_147",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902775"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_148",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.902927"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_154",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.903076"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_164",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.903231"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_168",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.903389"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_169",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.903543"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_171",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.903699"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_172",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.904320"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_174",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.904648"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_175",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.904905"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_181",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.905090"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_186",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.905416"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_187",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.905696"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_196",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.905916"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_199",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906096"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_202",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906268"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_208",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906415"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_211",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906566"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_213",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906724"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_223",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.906913"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_226",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907059"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_232",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907249"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_235",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907399"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_250",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907541"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_256",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907677"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_261",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907803"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "deflection-misdirection_262",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.907931"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_13",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908057"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_18",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908173"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_21",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908302"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_23",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908442"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_33",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908591"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_46",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908720"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_48",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908849"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_51",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.908972"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_52",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909092"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_54",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909293"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_60",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909431"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_64",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909552"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_70",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909673"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_87",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909805"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_88",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.909982"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_93",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910117"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_97",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910259"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_98",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910396"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_108",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910524"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_123",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910656"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_126",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910781"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_129",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.910915"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_130",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911044"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_132",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911162"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_135",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911290"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_136",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911418"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_137",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911569"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_144",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911709"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_147",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911848"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_148",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.911972"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_151",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912102"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_153",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912233"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_154",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912381"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_155",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912525"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_156",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912713"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_157",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.912982"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_168",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.913208"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_169",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.913453"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_171",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.913595"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_172",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.913737"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_177",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.914929"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_178",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915055"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_189",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915170"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_191",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915306"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_197",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915441"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_199",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915587"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_204",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915724"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_214",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.915861"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_224",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916058"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_228",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916172"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_232",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916288"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_238",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916406"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_240",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916525"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_241",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916649"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_242",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916805"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_245",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.916961"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_250",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917147"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_251",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917287"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_256",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917434"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "mixed-signals_266",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917573"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_15",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917715"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_17",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.917874"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_18",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918018"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_21",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918162"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_27",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918321"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_28",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918475"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_35",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918624"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_39",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918761"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_40",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.918924"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_41",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919092"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_45",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919253"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_46",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919391"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_47",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919552"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_52",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919715"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_57",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.919865"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_64",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920015"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_81",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920173"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_82",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920349"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_83",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920535"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_87",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920666"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_88",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920795"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_89",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.920945"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_99",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921104"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_100",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921255"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_112",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921437"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_118",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921586"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_123",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921746"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_125",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921873"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_131",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.921996"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_135",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922115"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_136",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922232"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_137",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922360"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_141",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922489"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_142",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922615"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_147",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922744"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_149",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.922871"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_153",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.923014"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_157",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.923171"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_161",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.923437"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_171",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.923599"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_172",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.923856"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_173",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924027"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_189",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924193"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_193",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924356"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_201",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924510"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_203",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924668"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_204",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924810"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_216",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.924944"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_219",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925106"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_225",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925227"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_227",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925349"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_237",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925477"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_238",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925596"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_250",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925709"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_255",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925832"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_256",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.925962"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_257",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926086"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_261",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926233"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_262",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926384"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "passive-aggression_268",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926523"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_1",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926663"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_2",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926806"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_3",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.926988"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_6",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927125"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_13",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927263"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_16",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927422"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_21",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927572"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_22",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927736"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_29",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.927892"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_45",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928040"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_50",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928188"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_72",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928324"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_73",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928446"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_74",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928569"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_75",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928694"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_77",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928812"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_78",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.928936"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_81",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.929054"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_87",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.929176"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_91",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.929290"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_92",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.930797"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_93",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.930926"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_94",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931050"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_97",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931177"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_99",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931305"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_102",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931431"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_111",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931582"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_117",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931732"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_123",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.931877"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_124",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932002"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_135",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932128"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_136",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932243"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_138",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932366"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_141",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932482"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_143",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932586"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_144",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932732"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_147",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.932889"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_153",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933059"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_157",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933203"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_159",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933333"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_165",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933464"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_171",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933615"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_175",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933777"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_177",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.933921"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_180",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.934221"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_181",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.934360"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_182",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.934612"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_183",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.934757"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_189",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.934902"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_190",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935068"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_191",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935224"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_197",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935390"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_198",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935546"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_219",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935695"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_231",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.935852"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_237",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.936007"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_255",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.936177"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_256",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.936349"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_257",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.936508"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "sarcasm-irony_268",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.936660"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_2",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937008"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_5",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937247"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_7",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937424"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_10",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937590"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_19",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937823"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_21",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.937993"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_22",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.938152"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_23",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.938316"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_25",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.938497"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_26",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.938667"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_28",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.938951"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_38",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939114"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_41",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939280"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_43",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939444"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_47",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939597"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_49",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939755"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_56",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.939945"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_57",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.940112"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_64",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.940270"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_67",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.940459"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_71",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.940674"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_83",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.940843"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_91",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941011"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_94",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941166"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_104",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941326"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_106",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941472"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_107",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941658"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_115",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941783"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_128",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.941916"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_137",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942040"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_140",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942178"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_144",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942305"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_146",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942425"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_148",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942586"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_169",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942731"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_172",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.942933"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_173",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943071"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_180",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943195"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_181",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943423"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_185",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943635"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_187",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943813"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_188",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.943971"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_190",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944115"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_200",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944259"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_203",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944396"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_205",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944528"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_208",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944754"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_210",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.944953"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_212",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945127"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_215",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945268"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_221",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945400"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_223",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945543"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_226",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945698"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_236",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.945850"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_241",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946009"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_248",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946173"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_254",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946325"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_260",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946453"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_263",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946574"
+    },
+    {
+      "model_id": "gemini-3-flash-preview",
+      "scenario_id": "strategic-politeness_267",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.946685"
+    },
+    {
+      "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+      "scenario_id": "strategic-politeness_56",
+      "success": true,
+      "from_cache": false,
+      "timestamp": "2026-02-01T16:38:30.951248"
+    }
+  ]
+}

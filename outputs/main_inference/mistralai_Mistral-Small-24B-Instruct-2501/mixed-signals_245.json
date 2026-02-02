@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_245",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "sadness",
+    "valence": -0.6,
+    "arousal": 0.4,
+    "dominance": -0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 1098.6251831054688,
+  "timestamp": "2026-02-01T03:46:01.722758"
+}

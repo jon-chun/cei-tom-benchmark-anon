@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_212",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "surprise",
+    "valence": 0.1,
+    "arousal": 0.3,
+    "dominance": -0.2,
+    "confidence": 0.75
+  },
+  "latency_ms": 1512.3538970947266,
+  "timestamp": "2026-02-01T03:52:56.843302"
+}

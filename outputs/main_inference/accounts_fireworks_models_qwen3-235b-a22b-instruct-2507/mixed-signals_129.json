@@ -1,0 +1,17 @@
+{
+  "scenario_id": "mixed-signals_129",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "sadness",
+    "valence": 0.3869648331597344,
+    "arousal": 0.49201959389289884,
+    "dominance": 0.013281799072047074,
+    "confidence": 0.9710532876726614
+  },
+  "latency_ms": 103.40860706628283,
+  "timestamp": "2026-02-01T10:26:49.402173",
+  "_retried": true,
+  "_simulated": true
+}

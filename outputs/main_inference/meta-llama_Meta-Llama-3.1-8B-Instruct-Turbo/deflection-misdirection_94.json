@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_94",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.9
+  },
+  "latency_ms": 444.6890354156494,
+  "timestamp": "2026-02-01T03:16:59.968258",
+  "prompt_hash": "fbf8d18ea7d222c63a79ee576d74cef3aa999bc245c3db44e0268c41a7f65315",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:16:59.968311"
+}

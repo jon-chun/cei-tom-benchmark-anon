@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_130",
+  "model_id": "gemini-3-flash-preview",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.4235644092770885,
+    "arousal": 0.8903870791264212,
+    "dominance": 0.6271320694759452,
+    "confidence": 0.7750483044858915
+  },
+  "latency_ms": 281.9303634406918,
+  "timestamp": "2026-02-01T16:38:30.910920"
+}

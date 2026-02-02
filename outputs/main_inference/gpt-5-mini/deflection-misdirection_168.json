@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_168",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.4,
+    "dominance": -0.3,
+    "confidence": 0.78
+  },
+  "latency_ms": 2196.789026260376,
+  "timestamp": "2026-02-01T03:44:56.362389"
+}

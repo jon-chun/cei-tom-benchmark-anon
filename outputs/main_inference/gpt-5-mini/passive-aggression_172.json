@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_172",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "disgust",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": -0.2,
+    "confidence": 0.78
+  },
+  "latency_ms": 1632.5371265411377,
+  "timestamp": "2026-02-01T03:48:13.282813"
+}

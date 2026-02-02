@@ -1,0 +1,19 @@
+{
+  "scenario_id": "passive-aggression_225",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.6,
+    "arousal": 0.7,
+    "dominance": -0.8,
+    "confidence": 0.88,
+    "_original_emotion": "anxiety",
+    "_repair_rationale": "Fear of future threat"
+  },
+  "latency_ms": 4598.001956939697,
+  "timestamp": "2026-02-01T03:54:35.039457",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.686761"
+}

@@ -1,0 +1,19 @@
+{
+  "scenario_id": "passive-aggression_52",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "fear",
+    "valence": -0.3,
+    "arousal": 0.2,
+    "dominance": -0.1,
+    "confidence": 0.75,
+    "_original_emotion": "discomfort",
+    "_repair_rationale": "Unease, mild fear response"
+  },
+  "latency_ms": 2511.875867843628,
+  "timestamp": "2026-02-01T03:49:46.464716",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.685089"
+}

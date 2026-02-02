@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_71",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": 0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 24530.76195716858,
+  "timestamp": "2026-02-01T03:42:34.102643",
+  "prompt_hash": "74c7cc481f7aa2cf7ab45bdd8d1b09d47072839787b36f8f58def24c5df53890",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:42:34.102748"
+}

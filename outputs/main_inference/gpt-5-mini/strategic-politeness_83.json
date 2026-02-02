@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_83",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "joy",
+    "valence": 0.4,
+    "arousal": -0.1,
+    "dominance": -0.2,
+    "confidence": 0.71,
+    "_original_emotion": "relief",
+    "_repair_rationale": "Positive resolution of tension"
+  },
+  "latency_ms": 1839.101791381836,
+  "timestamp": "2026-02-01T03:50:55.703319",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.705208"
+}

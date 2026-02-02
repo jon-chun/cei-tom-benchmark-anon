@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_64",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.6,
+    "arousal": 0.3,
+    "dominance": 0.4,
+    "confidence": 0.8
+  },
+  "latency_ms": 1535.6600284576416,
+  "timestamp": "2026-02-01T03:44:19.960482"
+}

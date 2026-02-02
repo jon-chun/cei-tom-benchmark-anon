@@ -1,0 +1,35 @@
+{
+  "total_calls": 3300,
+  "completed_calls": 301,
+  "failed_calls": 0,
+  "skipped_calls": 2999,
+  "cache_hits": 0,
+  "api_calls_made": 0,
+  "successful_parses": 301,
+  "failed_parses": 0,
+  "parse_success_rate_pct": 100.0,
+  "dropped_models": [],
+  "current_model": "",
+  "current_scenario": "",
+  "start_time": "2026-02-01T16:38:30.891610",
+  "last_checkpoint": "2026-02-01T16:38:30.947438",
+  "completion_percent": 100.0,
+  "model_stats": {
+    "gemini-3-flash-preview": {
+      "total_calls": 300,
+      "successful_parses": 300,
+      "failed_parses": 0,
+      "parse_success_rate_pct": 100.0,
+      "dropped": false,
+      "drop_reason": ""
+    },
+    "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": {
+      "total_calls": 1,
+      "successful_parses": 1,
+      "failed_parses": 0,
+      "parse_success_rate_pct": 100.0,
+      "dropped": false,
+      "drop_reason": ""
+    }
+  }
+}

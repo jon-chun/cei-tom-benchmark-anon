@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_256",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "surprise",
+    "valence": -0.3,
+    "arousal": 0.2,
+    "dominance": -0.2,
+    "confidence": 0.75
+  },
+  "latency_ms": 2464.5540714263916,
+  "timestamp": "2026-02-01T03:49:05.408128"
+}

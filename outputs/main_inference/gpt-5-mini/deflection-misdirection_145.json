@@ -1,0 +1,19 @@
+{
+  "scenario_id": "deflection-misdirection_145",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.3,
+    "dominance": -0.2,
+    "confidence": 0.82,
+    "_original_emotion": "frustration",
+    "_repair_rationale": "Blocked goal, anger precursor"
+  },
+  "latency_ms": 1873.262882232666,
+  "timestamp": "2026-02-01T03:44:47.747278",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.703418"
+}

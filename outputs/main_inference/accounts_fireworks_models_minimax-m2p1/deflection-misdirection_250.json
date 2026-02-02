@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_250",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.4,
+    "dominance": -0.3,
+    "confidence": 0.85
+  },
+  "latency_ms": 3792.5407886505127,
+  "timestamp": "2026-02-01T03:15:50.648631",
+  "prompt_hash": "d2867ccc92fde34fd7a29717cc066b3d13212da36d83139b4913662380aa88c7",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:15:50.648690"
+}

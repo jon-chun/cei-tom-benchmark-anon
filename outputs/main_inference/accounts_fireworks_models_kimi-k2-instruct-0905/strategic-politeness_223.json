@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_223",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "fear",
+    "valence": -0.2,
+    "arousal": 0.4,
+    "dominance": -0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 2312.7357959747314,
+  "timestamp": "2026-02-01T03:41:26.045801",
+  "prompt_hash": "78a4dbae67871ccf9d2a1ab61a4110bd72cb9f168abf5e9168752af097cb401e",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:41:26.045906"
+}

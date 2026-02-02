@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_208",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "fear",
+    "valence": -0.3,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 17814.828872680664,
+  "timestamp": "2026-02-01T04:37:59.965282"
+}

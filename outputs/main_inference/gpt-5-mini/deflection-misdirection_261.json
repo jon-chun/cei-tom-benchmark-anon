@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_261",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "surprise",
+    "valence": 0.0,
+    "arousal": 0.4,
+    "dominance": -0.2,
+    "confidence": 0.77
+  },
+  "latency_ms": 1987.3509407043457,
+  "timestamp": "2026-02-01T03:17:05.644204",
+  "prompt_hash": "8b0455014254ce7e131534bcfd82d9056d7832740d3a54233dbcdb30a32738e5",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:17:05.644249"
+}

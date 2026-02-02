@@ -1,0 +1,25 @@
+{
+  "scenario_id": "mixed-signals_126",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "fear",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.65,
+    "confidence": 0.85,
+    "_original_emotion": "anxiety",
+    "_repair_rationale": "Fear of future threat"
+  },
+  "latency_ms": 4368.778705596924,
+  "timestamp": "2026-02-01T03:23:11.754881",
+  "prompt_hash": "68ca9be637795d040a8b5263f15501030d27a63f31674ffd5d668ca74a035ff2",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:23:11.754937",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.688908"
+}

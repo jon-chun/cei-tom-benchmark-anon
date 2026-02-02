@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_87",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.65,
+    "arousal": 0.55,
+    "dominance": -0.7,
+    "confidence": 0.87
+  },
+  "latency_ms": 4634.13405418396,
+  "timestamp": "2026-02-01T03:31:13.275611",
+  "prompt_hash": "a76f20a763741a0660ae2184054fa73c5a9f324c46e58ce5f0a2cad6cfbd8e46",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:31:13.275669"
+}

@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_151",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "fear",
+    "valence": -0.8,
+    "arousal": 0.7,
+    "dominance": -0.6,
+    "confidence": 0.9
+  },
+  "latency_ms": 1104.3601036071777,
+  "timestamp": "2026-02-01T03:27:03.095824",
+  "prompt_hash": "3df3cd6e2512c843a4a578c0e9c297b0c23abdd55a849535ecff34a2d3daa1c1",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:27:03.095915"
+}

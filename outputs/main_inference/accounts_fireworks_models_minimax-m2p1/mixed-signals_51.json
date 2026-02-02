@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_51",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.75,
+    "arousal": -0.2,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 3872.647285461426,
+  "timestamp": "2026-02-01T03:25:05.042582",
+  "prompt_hash": "567a1bb60f2b533c1bd0a06beda563f953288be9dff97d1570ddde2ecd381896",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:25:05.042643"
+}

@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_141",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.8,
+    "dominance": -0.4,
+    "confidence": 0.9
+  },
+  "latency_ms": 511.7318630218506,
+  "timestamp": "2026-02-01T03:27:48.168687",
+  "prompt_hash": "deba2de7da657dc7d7b966b58cd92d56f703724402678e1ea5180db56fbe6fe8",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:27:48.168742"
+}

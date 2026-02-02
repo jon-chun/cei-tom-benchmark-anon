@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_140",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "fear",
+    "valence": -0.3,
+    "arousal": 0.4,
+    "dominance": -0.5,
+    "confidence": 0.75,
+    "_original_emotion": "anxiety",
+    "_repair_rationale": "Fear of future threat"
+  },
+  "latency_ms": 4448.742151260376,
+  "timestamp": "2026-02-01T04:01:07.091174",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.689196"
+}

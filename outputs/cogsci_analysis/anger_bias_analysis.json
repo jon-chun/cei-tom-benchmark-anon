@@ -1,0 +1,62 @@
+{
+  "chi_square": {
+    "chi2": 1461.776176980003,
+    "df": 1,
+    "p_value": 0.0,
+    "cramers_v": 0.8309597938633848,
+    "significant": "True",
+    "observed_anger": 918,
+    "observed_other": 1199,
+    "expected_anger": 302.42857142857144,
+    "expected_other": 1814.5714285714287
+  },
+  "by_gold_emotion": {
+    "joy": {
+      "anger_predictions": 38,
+      "other_predictions": 168,
+      "total_misclassified": 206,
+      "anger_bias_pct": 18.446601941747574
+    },
+    "trust": {
+      "anger_predictions": 77,
+      "other_predictions": 175,
+      "total_misclassified": 252,
+      "anger_bias_pct": 30.555555555555557
+    },
+    "fear": {
+      "anger_predictions": 76,
+      "other_predictions": 93,
+      "total_misclassified": 169,
+      "anger_bias_pct": 44.97041420118343
+    },
+    "surprise": {
+      "anger_predictions": 330,
+      "other_predictions": 347,
+      "total_misclassified": 677,
+      "anger_bias_pct": 48.74446085672083
+    },
+    "sadness": {
+      "anger_predictions": 216,
+      "other_predictions": 216,
+      "total_misclassified": 432,
+      "anger_bias_pct": 50.0
+    },
+    "disgust": {
+      "anger_predictions": 68,
+      "other_predictions": 62,
+      "total_misclassified": 130,
+      "anger_bias_pct": 52.307692307692314
+    },
+    "anticipation": {
+      "anger_predictions": 113,
+      "other_predictions": 138,
+      "total_misclassified": 251,
+      "anger_bias_pct": 45.0199203187251
+    }
+  },
+  "total_misclassifications": 2323,
+  "total_anger_misclass": 918,
+  "anger_proportion": 0.4336324988190836,
+  "expected_proportion": 0.14285714285714285,
+  "interpretation": "The anger bias is statistically significant (\u03c7\u00b2(1) = 1461.78, p < 0.001, V = 0.831). This represents a large effect size, indicating LLMs systematically over-predict 'anger' when misclassifying other emotions."
+}

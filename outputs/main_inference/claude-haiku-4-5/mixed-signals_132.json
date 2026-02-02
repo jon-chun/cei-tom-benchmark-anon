@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_132",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": -0.35,
+    "arousal": 0.55,
+    "dominance": -0.65,
+    "confidence": 0.82
+  },
+  "latency_ms": 4147.61209487915,
+  "timestamp": "2026-02-01T03:49:05.453939"
+}

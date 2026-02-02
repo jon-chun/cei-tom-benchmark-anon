@@ -1,0 +1,25 @@
+{
+  "scenario_id": "sarcasm-irony_50",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "joy",
+    "valence": 0.6,
+    "arousal": 0.4,
+    "dominance": 0.3,
+    "confidence": 0.85,
+    "_original_emotion": "amusement",
+    "_repair_rationale": "Positive affect, humor response"
+  },
+  "latency_ms": 1251.5251636505127,
+  "timestamp": "2026-02-01T03:37:43.346237",
+  "prompt_hash": "cacb7dadaa8c8f322e823e512adb2b1fee7b41681097292c5622161ff7afb502",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:37:43.346295",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.683660"
+}

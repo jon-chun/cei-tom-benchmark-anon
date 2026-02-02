@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_126",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "fear",
+    "valence": -0.6,
+    "arousal": 0.5,
+    "dominance": -0.7,
+    "confidence": 0.85
+  },
+  "latency_ms": 14130.554914474487,
+  "timestamp": "2026-02-01T03:23:39.694682",
+  "prompt_hash": "68ca9be637795d040a8b5263f15501030d27a63f31674ffd5d668ca74a035ff2",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:23:39.694749"
+}

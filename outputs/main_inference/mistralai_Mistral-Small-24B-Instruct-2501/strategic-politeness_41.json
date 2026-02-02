@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_41",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.5,
+    "arousal": 0.3,
+    "dominance": -0.2,
+    "confidence": 0.9
+  },
+  "latency_ms": 1077.6116847991943,
+  "timestamp": "2026-02-01T03:48:26.380497"
+}

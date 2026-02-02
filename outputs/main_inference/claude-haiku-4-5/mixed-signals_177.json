@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_177",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.3,
+    "dominance": -0.5,
+    "confidence": 0.85,
+    "_original_emotion": "anxiety",
+    "_repair_rationale": "Fear of future threat"
+  },
+  "latency_ms": 3760.7779502868652,
+  "timestamp": "2026-02-01T03:50:09.136776",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.689993"
+}

@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_5",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.5,
+    "arousal": 0.2,
+    "dominance": -0.2,
+    "confidence": 0.79,
+    "_original_emotion": "frustration",
+    "_repair_rationale": "Blocked goal, anger precursor"
+  },
+  "latency_ms": 1693.6490535736084,
+  "timestamp": "2026-02-01T03:50:21.640487",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.701738"
+}

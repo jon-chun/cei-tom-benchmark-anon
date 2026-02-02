@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_148",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.5,
+    "arousal": -0.1,
+    "dominance": -0.6,
+    "confidence": 0.78
+  },
+  "latency_ms": 1467.1590328216553,
+  "timestamp": "2026-02-01T03:46:19.965304"
+}

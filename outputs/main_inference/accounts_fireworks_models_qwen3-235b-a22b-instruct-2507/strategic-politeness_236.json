@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_236",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "trust",
+    "valence": 0.6,
+    "arousal": 0.3,
+    "dominance": 0.4,
+    "confidence": 0.95
+  },
+  "latency_ms": 19551.122903823853,
+  "timestamp": "2026-02-01T04:07:30.165178"
+}

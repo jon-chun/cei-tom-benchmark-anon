@@ -1,0 +1,25 @@
+{
+  "scenario_id": "strategic-politeness_137",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.3,
+    "arousal": -0.1,
+    "dominance": -0.4,
+    "confidence": 0.78,
+    "_original_emotion": "disappointment",
+    "_repair_rationale": "Unmet expectation, sadness variant"
+  },
+  "latency_ms": 1792.3610210418701,
+  "timestamp": "2026-02-01T03:40:19.026652",
+  "prompt_hash": "af17aaafb3076330cc29c824c3bd3494c57385c1164ecd4c462a37b678792557",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:40:19.026798",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.702288"
+}

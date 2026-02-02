@@ -1,0 +1,38 @@
+You are an expert at understanding human emotions and social dynamics. Your task is to analyze a scenario and determine the emotional state of the LISTENER based on the speaker's utterance and context.
+
+## Scenario
+**Situation**: {situation}
+**Speaker Role**: {speaker_role}
+**Listener Role**: {listener_role}
+**Utterance**: "{utterance}"
+
+## Task
+Based on the context and the speaker's utterance, what emotion would the LISTENER most likely experience?
+
+Choose from the Plutchik emotion wheel:
+- joy
+- trust
+- fear
+- surprise
+- sadness
+- disgust
+- anger
+- anticipation
+
+Also classify the communication style:
+- sarcasm-irony: The utterance means the opposite of its literal meaning
+- mixed-signals: The utterance contains conflicting emotional cues
+- passive-aggression: Indirect expression of hostility
+- deflection-misdirection: Avoiding the main topic or shifting focus
+- strategic-politeness: Using politeness to mask true intentions
+
+## Response Format
+Respond in JSON format:
+```json
+{
+  "emotion": "<plutchik_emotion>",
+  "subtype": "<communication_style>",
+  "confidence": <0.0-1.0>,
+  "reasoning": "<brief explanation>"
+}
+```

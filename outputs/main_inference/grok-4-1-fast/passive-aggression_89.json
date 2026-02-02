@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_89",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.5,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 10547.819137573242,
+  "timestamp": "2026-02-01T03:28:09.571694",
+  "prompt_hash": "3343cef9a91b207ec634d0ab456a4747b504c026c43808548e2a6ebd28e3083c",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:28:09.571747"
+}

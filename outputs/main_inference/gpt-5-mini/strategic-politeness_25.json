@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_25",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.3,
+    "arousal": 0.0,
+    "dominance": -0.4,
+    "confidence": 0.64,
+    "_original_emotion": "guilt",
+    "_repair_rationale": "Self-directed negative emotion, Plutchik secondary"
+  },
+  "latency_ms": 1523.6868858337402,
+  "timestamp": "2026-02-01T03:50:35.869877",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.696414"
+}

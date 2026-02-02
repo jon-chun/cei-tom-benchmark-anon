@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_46",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.5,
+    "dominance": -0.3,
+    "confidence": 0.8
+  },
+  "latency_ms": 420.85981369018555,
+  "timestamp": "2026-02-01T03:48:22.757452"
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-02-01T16:38:31.439997",
+  "analyses_performed": [
+    "anger_bias_chi_square",
+    "human_llm_correlation",
+    "fleiss_kappa_by_subtype",
+    "confusion_matrix"
+  ],
+  "key_findings": {
+    "anger_bias": {
+      "chi2": 1461.776176980003,
+      "df": 1,
+      "p_value": 0.0,
+      "cramers_v": 0.8309597938633848,
+      "significant": "True",
+      "observed_anger": 918,
+      "observed_other": 1199,
+      "expected_anger": 302.42857142857144,
+      "expected_other": 1814.5714285714287
+    },
+    "correlation": {
+      "pearson_r": -0.3173762747531234,
+      "spearman_rho": -0.39999999999999997
+    },
+    "kappa_range": {
+      "min": 0.18095238095238095,
+      "max": 0.419047619047619
+    }
+  },
+  "paper_ready_statements": [
+    "The anger bias is statistically significant (\u03c7\u00b2(1) = 1461.78, p < .001, Cram\u00e9r's V = 0.831).",
+    "Scenario-level correlation between human agreement and LLM accuracy: r = -0.32, p = 0.603.",
+    "Inter-annotator reliability varied by subtype: deflection-misdirection showed lowest agreement (\u03ba = 0.18), while passive-aggression showed highest (\u03ba = 0.42)."
+  ]
+}

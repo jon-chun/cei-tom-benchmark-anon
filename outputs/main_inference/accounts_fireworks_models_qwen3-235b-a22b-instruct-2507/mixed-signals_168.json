@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_168",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.5,
+    "arousal": 0.4,
+    "dominance": -0.6,
+    "confidence": 0.85,
+    "_original_emotion": "guilt",
+    "_repair_rationale": "Self-directed negative emotion, Plutchik secondary"
+  },
+  "latency_ms": 4512.569904327393,
+  "timestamp": "2026-02-01T03:50:26.417463",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.682969"
+}

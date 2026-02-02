@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_99",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "surprise",
+    "valence": 0.25,
+    "arousal": 0.35,
+    "dominance": -0.1,
+    "confidence": 0.75
+  },
+  "latency_ms": 2906.944990158081,
+  "timestamp": "2026-02-01T03:50:02.996860"
+}

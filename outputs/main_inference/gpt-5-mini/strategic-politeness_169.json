@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_169",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "surprise",
+    "valence": -0.2,
+    "arousal": 0.2,
+    "dominance": -0.3,
+    "confidence": 0.78
+  },
+  "latency_ms": 1502.6698112487793,
+  "timestamp": "2026-02-01T03:51:15.671606"
+}

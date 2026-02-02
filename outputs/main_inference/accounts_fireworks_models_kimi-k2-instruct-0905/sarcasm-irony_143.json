@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_143",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 2676.63311958313,
+  "timestamp": "2026-02-01T03:50:11.379437"
+}

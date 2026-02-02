@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_148",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.9,
+    "dominance": 0.7,
+    "confidence": 0.8
+  },
+  "latency_ms": 23095.184087753296,
+  "timestamp": "2026-02-01T03:55:20.822129"
+}

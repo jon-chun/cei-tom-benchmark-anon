@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_88",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anger",
+    "valence": -0.4,
+    "arousal": 0.5,
+    "dominance": 0.3,
+    "confidence": 0.79
+  },
+  "latency_ms": 3093.1551456451416,
+  "timestamp": "2026-02-01T03:21:27.769915",
+  "prompt_hash": "29a7fe3d10febaa88bc894fe1b50862b42f059fd3e47c0361f596b97935305e5",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:21:27.769991"
+}

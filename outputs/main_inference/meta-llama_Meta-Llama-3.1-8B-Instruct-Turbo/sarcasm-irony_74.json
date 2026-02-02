@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_74",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.8,
+    "dominance": -0.4,
+    "confidence": 0.9
+  },
+  "latency_ms": 12300.289154052734,
+  "timestamp": "2026-02-01T03:37:03.286687",
+  "prompt_hash": "47f2b7862b42c2dcf71bc28caab73540947302c4332adc82901ae89ca0985024",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:37:03.286732"
+}

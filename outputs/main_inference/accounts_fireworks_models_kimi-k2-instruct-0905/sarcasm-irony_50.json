@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_50",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "joy",
+    "valence": 0.6,
+    "arousal": 0.3,
+    "dominance": 0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 12138.653993606567,
+  "timestamp": "2026-02-01T03:37:42.094185",
+  "prompt_hash": "cacb7dadaa8c8f322e823e512adb2b1fee7b41681097292c5622161ff7afb502",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:37:42.094235"
+}

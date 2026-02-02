@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_241",
+  "model_id": "gemini-3-flash-preview",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "joy",
+    "valence": 0.7986233017300173,
+    "arousal": 0.12701972809596707,
+    "dominance": -0.9341964396930562,
+    "confidence": 0.9643831806273296
+  },
+  "latency_ms": 225.7938772906604,
+  "timestamp": "2026-02-01T16:38:30.945856"
+}

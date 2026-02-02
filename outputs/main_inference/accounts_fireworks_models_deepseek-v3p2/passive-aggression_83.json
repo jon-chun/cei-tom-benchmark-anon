@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_83",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.7,
+    "arousal": 0.8,
+    "dominance": -0.8,
+    "confidence": 0.8
+  },
+  "latency_ms": 24266.417264938354,
+  "timestamp": "2026-02-01T04:32:35.556324"
+}

@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_223",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.5,
+    "dominance": -0.3,
+    "confidence": 0.8
+  },
+  "latency_ms": 2471.240282058716,
+  "timestamp": "2026-02-01T03:42:03.728910",
+  "prompt_hash": "78a4dbae67871ccf9d2a1ab61a4110bd72cb9f168abf5e9168752af097cb401e",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:42:03.729076"
+}

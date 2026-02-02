@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_60",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "anger",
+    "valence": -0.5,
+    "arousal": 0.5,
+    "dominance": -0.2,
+    "confidence": 0.8
+  },
+  "latency_ms": 376.6489028930664,
+  "timestamp": "2026-02-01T03:44:23.829974"
+}

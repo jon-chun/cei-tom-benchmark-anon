@@ -1,0 +1,19 @@
+{
+  "scenario_id": "passive-aggression_40",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.4,
+    "arousal": 0.0,
+    "dominance": -0.3,
+    "confidence": 0.62,
+    "_original_emotion": "guilt",
+    "_repair_rationale": "Self-directed negative emotion, Plutchik secondary"
+  },
+  "latency_ms": 1455.7640552520752,
+  "timestamp": "2026-02-01T03:47:29.028385",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.706989"
+}

@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_250",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anticipation",
+    "valence": 0.5,
+    "arousal": 0.3,
+    "dominance": -0.2,
+    "confidence": 0.85
+  },
+  "latency_ms": 1181.90598487854,
+  "timestamp": "2026-02-01T03:15:52.487280",
+  "prompt_hash": "d2867ccc92fde34fd7a29717cc066b3d13212da36d83139b4913662380aa88c7",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:15:52.487327"
+}

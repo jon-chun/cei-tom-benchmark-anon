@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_64",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "joy",
+    "valence": 0.7,
+    "arousal": 0.3,
+    "dominance": 0.6,
+    "confidence": 0.85
+  },
+  "latency_ms": 29611.57727241516,
+  "timestamp": "2026-02-01T03:48:44.547849"
+}

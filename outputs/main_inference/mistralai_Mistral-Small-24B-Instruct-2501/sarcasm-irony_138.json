@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_138",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "surprise",
+    "valence": -0.5,
+    "arousal": 0.7,
+    "dominance": -0.3,
+    "confidence": 0.85
+  },
+  "latency_ms": 1341.5460586547852,
+  "timestamp": "2026-02-01T03:47:39.790432"
+}

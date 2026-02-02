@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_223",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "trust",
+    "valence": 0.3,
+    "arousal": 0.2,
+    "dominance": 0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 2917.2301292419434,
+  "timestamp": "2026-02-01T03:41:59.274808",
+  "prompt_hash": "78a4dbae67871ccf9d2a1ab61a4110bd72cb9f168abf5e9168752af097cb401e",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:41:59.274916"
+}

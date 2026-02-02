@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_261",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.2,
+    "confidence": 0.85
+  },
+  "latency_ms": 35430.66596984863,
+  "timestamp": "2026-02-01T03:17:45.137907",
+  "prompt_hash": "8b0455014254ce7e131534bcfd82d9056d7832740d3a54233dbcdb30a32738e5",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:17:45.137998"
+}

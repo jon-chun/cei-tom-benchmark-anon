@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_37",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.7,
+    "dominance": -0.5,
+    "confidence": 0.8
+  },
+  "latency_ms": 18890.534162521362,
+  "timestamp": "2026-02-01T03:20:24.121078",
+  "prompt_hash": "1668a56699a6aaa0acef87e8f45176f07a92ac073e47b7121d43baa29887ffe4",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:20:24.121130"
+}

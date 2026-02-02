@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_57",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "surprise",
+    "valence": 0.1,
+    "arousal": 0.2,
+    "dominance": -0.1,
+    "confidence": 0.78
+  },
+  "latency_ms": 1741.2428855895996,
+  "timestamp": "2026-02-01T03:28:50.430106",
+  "prompt_hash": "8b765a0544eadc1c2415128171cfa36f093932e4610644eede689762762449c0",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:28:50.430167"
+}

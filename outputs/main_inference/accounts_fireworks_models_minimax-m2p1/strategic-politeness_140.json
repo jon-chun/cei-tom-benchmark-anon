@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_140",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anticipation",
+    "valence": -0.3,
+    "arousal": 0.3,
+    "dominance": -0.1,
+    "confidence": 0.85
+  },
+  "latency_ms": 2898.538112640381,
+  "timestamp": "2026-02-01T03:56:41.160121"
+}

@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_93",
+  "model_id": "gemini-3-flash-preview",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "sadness",
+    "valence": 0.7443335658121795,
+    "arousal": 0.7171865026755633,
+    "dominance": -0.5551325649086711,
+    "confidence": 0.9082933027984645
+  },
+  "latency_ms": 284.1212938715768,
+  "timestamp": "2026-02-01T16:38:30.901003"
+}

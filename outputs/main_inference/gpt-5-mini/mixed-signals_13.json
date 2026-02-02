@@ -1,0 +1,25 @@
+{
+  "scenario_id": "mixed-signals_13",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anger",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": 0.3,
+    "confidence": 0.64,
+    "_original_emotion": "annoyance",
+    "_repair_rationale": "Mild anger, irritation"
+  },
+  "latency_ms": 1658.430814743042,
+  "timestamp": "2026-02-01T03:22:17.721134",
+  "prompt_hash": "82885aeff4ae25f62008c8e8fd9ca7aa3dfec9cbd9e4fada553e2cbcacb25758",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:22:17.721218",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.699764"
+}

@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_97",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anticipation",
+    "valence": -0.2,
+    "arousal": 0.3,
+    "dominance": 0.1,
+    "confidence": 0.75
+  },
+  "latency_ms": 4153.697967529297,
+  "timestamp": "2026-02-01T03:45:00.577327"
+}

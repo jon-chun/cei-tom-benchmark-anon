@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_144",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anger",
+    "valence": -0.5,
+    "arousal": 0.1,
+    "dominance": -0.4,
+    "confidence": 0.65,
+    "_original_emotion": "frustration",
+    "_repair_rationale": "Blocked goal, anger precursor"
+  },
+  "latency_ms": 1448.3590126037598,
+  "timestamp": "2026-02-01T03:46:17.108894",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.698941"
+}

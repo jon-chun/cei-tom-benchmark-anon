@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_156",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "unknown",
+    "emotion": "unknown",
+    "valence": 0.0,
+    "arousal": 0.0,
+    "dominance": 0.0,
+    "confidence": null
+  },
+  "latency_ms": 23588.48261833191,
+  "timestamp": "2026-02-01T03:26:01.979640",
+  "prompt_hash": "558da7d08c35a0439a3e77ebb4f36121968657f1d81dd332cfff51b0a92c5112",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:26:01.979696"
+}

@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_180",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.5,
+    "dominance": -0.2,
+    "confidence": 0.8
+  },
+  "latency_ms": 23698.146104812622,
+  "timestamp": "2026-02-01T05:23:06.627164"
+}

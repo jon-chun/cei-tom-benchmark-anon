@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_135",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.9
+  },
+  "latency_ms": 1134.9787712097168,
+  "timestamp": "2026-02-01T03:46:36.689280"
+}

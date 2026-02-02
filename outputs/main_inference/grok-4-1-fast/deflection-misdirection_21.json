@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_21",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "surprise",
+    "valence": -0.2,
+    "arousal": 0.4,
+    "dominance": -0.3,
+    "confidence": 0.9
+  },
+  "latency_ms": 13249.619007110596,
+  "timestamp": "2026-02-01T03:44:22.585388"
+}

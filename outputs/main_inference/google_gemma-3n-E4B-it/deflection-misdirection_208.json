@@ -1,0 +1,19 @@
+{
+  "scenario_id": "deflection-misdirection_208",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.4,
+    "arousal": 0.3,
+    "dominance": -0.6,
+    "confidence": 0.85,
+    "_original_emotion": "frustration",
+    "_repair_rationale": "Blocked goal, anger precursor"
+  },
+  "latency_ms": 3084.6011638641357,
+  "timestamp": "2026-02-01T03:45:21.018361",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.691348"
+}

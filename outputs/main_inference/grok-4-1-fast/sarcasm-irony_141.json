@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_141",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.65,
+    "arousal": 0.45,
+    "dominance": 0.4,
+    "confidence": 0.88
+  },
+  "latency_ms": 16389.31918144226,
+  "timestamp": "2026-02-01T04:25:06.725545"
+}

@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_183",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.8
+  },
+  "latency_ms": 26573.27103614807,
+  "timestamp": "2026-02-01T05:04:27.646848"
+}

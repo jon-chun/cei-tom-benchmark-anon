@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_211",
+  "model_id": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "anticipation",
+    "valence": 0.5,
+    "arousal": 0.3,
+    "dominance": 0.2,
+    "confidence": 0.8
+  },
+  "latency_ms": 1342.6728248596191,
+  "timestamp": "2026-02-01T03:44:55.866732"
+}

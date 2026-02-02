@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_144",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.7,
+    "dominance": -0.3,
+    "confidence": 0.9
+  },
+  "latency_ms": 1197.9022026062012,
+  "timestamp": "2026-02-01T03:39:38.925106",
+  "prompt_hash": "30861afbda8ad4b5b9d8f23d96ee8a33e09ebe8981d35440e3db0dbc76addf65",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:39:38.925167"
+}

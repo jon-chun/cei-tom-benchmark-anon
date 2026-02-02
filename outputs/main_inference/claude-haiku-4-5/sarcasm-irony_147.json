@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_147",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "disgust",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 4245.710849761963,
+  "timestamp": "2026-02-01T03:34:33.723871",
+  "prompt_hash": "0872ad95cff92f7d8c47866d2b9b6558b6a380f9be85ba770caf22981e962c5b",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:34:33.723959"
+}

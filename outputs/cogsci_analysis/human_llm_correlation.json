@@ -1,0 +1,41 @@
+{
+  "pearson": {
+    "r": -0.3173762747531234,
+    "p_value": 0.6027942989280572,
+    "significant": "False"
+  },
+  "spearman": {
+    "r": -0.39999999999999997,
+    "p_value": 0.5046315754686912,
+    "significant": "False"
+  },
+  "n": 5,
+  "subtype_data": [
+    {
+      "subtype": "sarcasm-irony",
+      "human_agreement": 20.0,
+      "llm_accuracy": 28.000000000000004
+    },
+    {
+      "subtype": "mixed-signals",
+      "human_agreement": 13.333333333333334,
+      "llm_accuracy": 38.0
+    },
+    {
+      "subtype": "passive-aggression",
+      "human_agreement": 11.666666666666666,
+      "llm_accuracy": 21.333333333333336
+    },
+    {
+      "subtype": "deflection-misdirection",
+      "human_agreement": 8.333333333333332,
+      "llm_accuracy": 38.83333333333333
+    },
+    {
+      "subtype": "strategic-politeness",
+      "human_agreement": 18.333333333333332,
+      "llm_accuracy": 31.21869782971619
+    }
+  ],
+  "interpretation": "No significant correlation found (r = -0.32, p = 0.603). Human and LLM difficulty patterns may be dissociated."
+}

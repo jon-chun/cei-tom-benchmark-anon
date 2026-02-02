@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_22",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "surprise",
+    "valence": -0.2,
+    "arousal": 0.3,
+    "dominance": -0.1,
+    "confidence": 0.75
+  },
+  "latency_ms": 1397.1788883209229,
+  "timestamp": "2026-02-01T03:44:03.388350"
+}

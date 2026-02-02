@@ -1,0 +1,19 @@
+{
+  "scenario_id": "sarcasm-irony_256",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": -0.5,
+    "confidence": 0.66,
+    "_original_emotion": "embarrassment",
+    "_repair_rationale": "Social threat response, anxiety-related"
+  },
+  "latency_ms": 1952.9728889465332,
+  "timestamp": "2026-02-01T03:50:13.125064",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.700032"
+}

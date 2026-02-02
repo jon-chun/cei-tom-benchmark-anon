@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_156",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "fear",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.5,
+    "confidence": 0.9
+  },
+  "latency_ms": 12661.166906356812,
+  "timestamp": "2026-02-01T03:25:38.390478",
+  "prompt_hash": "558da7d08c35a0439a3e77ebb4f36121968657f1d81dd332cfff51b0a92c5112",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:25:38.390538"
+}

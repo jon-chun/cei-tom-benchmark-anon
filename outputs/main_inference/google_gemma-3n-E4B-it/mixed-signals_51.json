@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_51",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.6,
+    "arousal": 0.3,
+    "dominance": 0.7,
+    "confidence": 0.8
+  },
+  "latency_ms": 3456.5889835357666,
+  "timestamp": "2026-02-01T03:25:10.036091",
+  "prompt_hash": "567a1bb60f2b533c1bd0a06beda563f953288be9dff97d1570ddde2ecd381896",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:25:10.036148"
+}

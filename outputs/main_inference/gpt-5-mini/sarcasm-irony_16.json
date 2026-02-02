@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_16",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.5,
+    "dominance": 0.2,
+    "confidence": 0.82
+  },
+  "latency_ms": 1685.020923614502,
+  "timestamp": "2026-02-01T03:48:53.372110"
+}

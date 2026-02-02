@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_136",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "disgust",
+    "valence": -0.6,
+    "arousal": -0.2,
+    "dominance": -0.4,
+    "confidence": 0.75
+  },
+  "latency_ms": 2660.322904586792,
+  "timestamp": "2026-02-01T03:34:22.821165",
+  "prompt_hash": "8e1cc110a0c0248ecd898e06690a1500cefa7d614ee19abd644bcd1120221b80",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:34:22.821217"
+}

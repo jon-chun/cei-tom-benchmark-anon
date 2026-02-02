@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_100",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.6,
+    "dominance": 0.8,
+    "confidence": 0.95
+  },
+  "latency_ms": 3261.8660926818848,
+  "timestamp": "2026-02-01T03:49:32.746600"
+}

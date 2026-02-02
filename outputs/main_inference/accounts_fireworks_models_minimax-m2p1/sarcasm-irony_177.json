@@ -1,0 +1,19 @@
+{
+  "scenario_id": "sarcasm-irony_177",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "joy",
+    "valence": 0.2,
+    "arousal": 0.3,
+    "dominance": 0.4,
+    "confidence": 0.85,
+    "_original_emotion": "amusement",
+    "_repair_rationale": "Positive affect, humor response"
+  },
+  "latency_ms": 3786.35311126709,
+  "timestamp": "2026-02-01T03:54:13.337502",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.685543"
+}

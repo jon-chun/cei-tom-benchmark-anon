@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_38",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "trust",
+    "valence": 0.7,
+    "arousal": 0.2,
+    "dominance": 0.8,
+    "confidence": 0.9
+  },
+  "latency_ms": 388.930082321167,
+  "timestamp": "2026-02-01T04:16:11.460472"
+}

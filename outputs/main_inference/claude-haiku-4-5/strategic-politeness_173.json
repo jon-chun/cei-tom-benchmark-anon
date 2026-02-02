@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_173",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.3,
+    "arousal": -0.2,
+    "dominance": -0.5,
+    "confidence": 0.78
+  },
+  "latency_ms": 4779.927015304565,
+  "timestamp": "2026-02-01T03:38:21.383069",
+  "prompt_hash": "ad19a459d31efd951b56805e3f9c3c59b536a00a764bc8976fcc5a6565278ff6",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:38:21.383123"
+}

@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_129",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": -0.3,
+    "confidence": 0.78,
+    "_original_emotion": "concern",
+    "_repair_rationale": "Worry about negative outcome"
+  },
+  "latency_ms": 1502.5091171264648,
+  "timestamp": "2026-02-01T03:46:07.384803",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.698377"
+}

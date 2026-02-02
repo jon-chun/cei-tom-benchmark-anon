@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_22",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "sadness",
+    "valence": -0.7,
+    "arousal": 0.3,
+    "dominance": -0.4,
+    "confidence": 0.8
+  },
+  "latency_ms": 394.1943645477295,
+  "timestamp": "2026-02-01T03:43:59.109822"
+}

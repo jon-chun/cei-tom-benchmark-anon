@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_197",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.7,
+    "dominance": 0.6,
+    "confidence": 0.9
+  },
+  "latency_ms": 1698.8670825958252,
+  "timestamp": "2026-02-01T03:52:25.305339"
+}

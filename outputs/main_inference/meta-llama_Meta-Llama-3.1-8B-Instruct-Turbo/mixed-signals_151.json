@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_151",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.8
+  },
+  "latency_ms": 617.995023727417,
+  "timestamp": "2026-02-01T03:27:01.990819",
+  "prompt_hash": "3df3cd6e2512c843a4a578c0e9c297b0c23abdd55a849535ecff34a2d3daa1c1",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:27:01.990874"
+}

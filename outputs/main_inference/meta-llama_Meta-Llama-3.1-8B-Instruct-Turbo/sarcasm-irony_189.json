@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_189",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.5,
+    "arousal": 0.7,
+    "dominance": -0.2,
+    "confidence": 0.8
+  },
+  "latency_ms": 470.2589511871338,
+  "timestamp": "2026-02-01T04:05:48.555768"
+}

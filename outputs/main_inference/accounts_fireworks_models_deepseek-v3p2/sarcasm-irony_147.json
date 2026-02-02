@@ -1,0 +1,21 @@
+{
+  "scenario_id": "sarcasm-irony_147",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "unknown",
+    "emotion": "unknown",
+    "valence": 0.0,
+    "arousal": 0.0,
+    "dominance": 0.0,
+    "confidence": null
+  },
+  "latency_ms": 26518.89681816101,
+  "timestamp": "2026-02-01T03:35:40.743580",
+  "prompt_hash": "0872ad95cff92f7d8c47866d2b9b6558b6a380f9be85ba770caf22981e962c5b",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:35:40.743637"
+}

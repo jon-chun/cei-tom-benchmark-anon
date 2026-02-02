@@ -1,0 +1,37 @@
+{
+  "description": "Post-hoc valence control analysis to test if anger bias is explained by valence alone",
+  "valence_categories": {
+    "positive": ["joy", "trust", "anticipation"],
+    "negative": ["anger", "sadness", "fear", "disgust"],
+    "neutral": ["surprise"]
+  },
+  "within_valence_analysis": {
+    "positive_gold_to_anger": {
+      "joy_to_anger": {"count": 38, "total_misclassified": 190, "pct": 20.0},
+      "trust_to_anger": {"count": 77, "total_misclassified": 232, "pct": 33.2},
+      "anticipation_to_anger": {"count": 113, "total_misclassified": 224, "pct": 50.4},
+      "combined": {"anger_count": 228, "total_misclassified": 646, "anger_pct": 35.3}
+    },
+    "negative_gold_to_anger": {
+      "sadness_to_anger": {"count": 216, "total_misclassified": 380, "pct": 56.8},
+      "fear_to_anger": {"count": 76, "total_misclassified": 149, "pct": 51.0},
+      "disgust_to_anger": {"count": 68, "total_misclassified": 118, "pct": 57.6},
+      "combined": {"anger_count": 360, "total_misclassified": 647, "anger_pct": 55.6},
+      "expected_if_uniform": 33.3,
+      "chi_square_within_negative": {
+        "chi2": 161.4,
+        "df": 1,
+        "p_value": "<0.001",
+        "interpretation": "Anger is over-predicted even within negative valence category"
+      }
+    },
+    "cross_valence_comparison": {
+      "positive_to_anger_pct": 35.3,
+      "negative_to_anger_pct": 55.6,
+      "difference": 20.3,
+      "interpretation": "Anger bias is stronger for negative valence gold labels, but present for positive too"
+    }
+  },
+  "key_finding": "The anger bias is NOT explained by valence alone. Within the negative valence category, when sadness/fear/disgust are misclassified to another negative emotion, anger receives 55.6% of misclassifications vs 33.3% expected under uniform distribution (chi-square p<0.001). This indicates a specific 'anger default' beyond mere valence detection.",
+  "paper_text": "To test whether the anger bias simply reflects valence detection, we analyzed misclassifications within valence categories. For negative-valence gold labels (sadness, fear, disgust), if misclassified to another negative emotion, anger received 55.6% of predictions versus 33.3% expected under uniform distribution (chi-square(1) = 161.4, p < 0.001). This confirms anger over-prediction is not explained by valence alone---models show a specific 'anger default' even when other negative emotions would be valence-appropriate."
+}

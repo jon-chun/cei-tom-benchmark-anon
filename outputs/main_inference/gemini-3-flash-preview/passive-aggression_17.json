@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_17",
+  "model_id": "gemini-3-flash-preview",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "sadness",
+    "valence": -0.8166531523649583,
+    "arousal": -0.5757883691533736,
+    "dominance": 0.2789858370594076,
+    "confidence": 0.9855466560324931
+  },
+  "latency_ms": 120.2314042651492,
+  "timestamp": "2026-02-01T16:38:30.917720"
+}

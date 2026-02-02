@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_94",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.7,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.85
+  },
+  "latency_ms": 1909.2049598693848,
+  "timestamp": "2026-02-01T03:16:32.081713",
+  "prompt_hash": "fbf8d18ea7d222c63a79ee576d74cef3aa999bc245c3db44e0268c41a7f65315",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:16:32.081774"
+}

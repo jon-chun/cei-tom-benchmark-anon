@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_173",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": -0.7,
+    "arousal": -0.2,
+    "dominance": -0.5,
+    "confidence": 0.7
+  },
+  "latency_ms": 21416.001081466675,
+  "timestamp": "2026-02-01T03:39:07.611567",
+  "prompt_hash": "ad19a459d31efd951b56805e3f9c3c59b536a00a764bc8976fcc5a6565278ff6",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:39:07.611675"
+}

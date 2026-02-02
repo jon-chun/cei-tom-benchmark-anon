@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_241",
+  "model_id": "accounts/fireworks/models/kimi-k2-instruct-0905",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.4,
+    "arousal": 0.3,
+    "dominance": -0.5,
+    "confidence": 0.85,
+    "_original_emotion": "guilt",
+    "_repair_rationale": "Self-directed negative emotion, Plutchik secondary"
+  },
+  "latency_ms": 1845.6947803497314,
+  "timestamp": "2026-02-01T03:53:07.079318",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.691648"
+}

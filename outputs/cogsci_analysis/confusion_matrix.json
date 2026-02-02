@@ -1,0 +1,135 @@
+{
+  "matrix": {
+    "joy": {
+      "trust": 46,
+      "sadness": 35,
+      "anger": 38,
+      "joy": 25,
+      "anticipation": 26,
+      "surprise": 25,
+      "disgust": 8,
+      "fear": 20
+    },
+    "surprise": {
+      "disgust": 34,
+      "anger": 330,
+      "sadness": 107,
+      "anticipation": 28,
+      "surprise": 82,
+      "trust": 35,
+      "fear": 83,
+      "joy": 29
+    },
+    "trust": {
+      "trust": 45,
+      "sadness": 68,
+      "anger": 77,
+      "fear": 35,
+      "disgust": 2,
+      "anticipation": 23,
+      "joy": 19,
+      "surprise": 17
+    },
+    "anger": {
+      "anger": 366,
+      "sadness": 81,
+      "trust": 17,
+      "joy": 16,
+      "anticipation": 14,
+      "fear": 42,
+      "disgust": 4,
+      "surprise": 16
+    },
+    "sadness": {
+      "anger": 216,
+      "sadness": 283,
+      "surprise": 39,
+      "trust": 42,
+      "anticipation": 14,
+      "joy": 25,
+      "fear": 58,
+      "disgust": 15
+    },
+    "fear": {
+      "trust": 14,
+      "sadness": 40,
+      "anger": 76,
+      "fear": 128,
+      "anticipation": 12,
+      "joy": 9,
+      "surprise": 7
+    },
+    "anticipation": {
+      "anticipation": 46,
+      "anger": 113,
+      "sadness": 51,
+      "trust": 24,
+      "fear": 37,
+      "joy": 10,
+      "surprise": 10
+    },
+    "disgust": {
+      "anger": 68,
+      "anticipation": 4,
+      "joy": 5,
+      "trust": 3,
+      "sadness": 9,
+      "fear": 9,
+      "surprise": 25,
+      "disgust": 2
+    }
+  },
+  "emotions": [
+    "joy",
+    "trust",
+    "fear",
+    "surprise",
+    "sadness",
+    "disgust",
+    "anger",
+    "anticipation"
+  ],
+  "per_emotion_accuracy": {
+    "joy": {
+      "correct": 25,
+      "total": 223,
+      "accuracy": 0.11210762331838565
+    },
+    "trust": {
+      "correct": 45,
+      "total": 286,
+      "accuracy": 0.15734265734265734
+    },
+    "fear": {
+      "correct": 128,
+      "total": 286,
+      "accuracy": 0.44755244755244755
+    },
+    "surprise": {
+      "correct": 82,
+      "total": 728,
+      "accuracy": 0.11263736263736264
+    },
+    "sadness": {
+      "correct": 283,
+      "total": 692,
+      "accuracy": 0.40895953757225434
+    },
+    "disgust": {
+      "correct": 2,
+      "total": 125,
+      "accuracy": 0.016
+    },
+    "anger": {
+      "correct": 366,
+      "total": 556,
+      "accuracy": 0.658273381294964
+    },
+    "anticipation": {
+      "correct": 46,
+      "total": 291,
+      "accuracy": 0.15807560137457044
+    }
+  },
+  "total_predictions": 3300
+}

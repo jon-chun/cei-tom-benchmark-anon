@@ -1,0 +1,33 @@
+You are modeling a pragmatic listener who interprets utterances by reasoning about what a speaker intended to communicate.
+
+## Context
+**Situation**: {situation}
+**Speaker**: {speaker_role}
+**Listener**: {listener_role}
+**Power Dynamic**: {power_relation}
+
+## Utterance
+"{utterance}"
+
+## Analysis Task
+As a pragmatic listener, consider:
+1. What is the literal meaning of the utterance?
+2. Given the context and social dynamics, what did the speaker likely intend?
+3. How would a rational speaker choose this utterance to convey their meaning?
+4. What emotion would the listener experience based on pragmatic interpretation?
+
+## Key Considerations
+- Power dynamics affect how emotions are expressed and interpreted
+- Speakers in lower-power positions may use indirect language
+- Context shapes interpretation beyond literal meaning
+
+## Response Format
+```json
+{
+  "literal_interpretation": "<what the words literally mean>",
+  "pragmatic_interpretation": "<what the speaker likely meant>",
+  "listener_emotion": "<plutchik_emotion>",
+  "communication_style": "<subtype>",
+  "power_influence": "<how power dynamics affected interpretation>"
+}
+```

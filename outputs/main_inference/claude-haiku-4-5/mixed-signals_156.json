@@ -1,0 +1,21 @@
+{
+  "scenario_id": "mixed-signals_156",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.65,
+    "arousal": 0.35,
+    "dominance": -0.7,
+    "confidence": 0.82
+  },
+  "latency_ms": 3684.364080429077,
+  "timestamp": "2026-02-01T03:25:15.590786",
+  "prompt_hash": "558da7d08c35a0439a3e77ebb4f36121968657f1d81dd332cfff51b0a92c5112",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:25:15.590843"
+}

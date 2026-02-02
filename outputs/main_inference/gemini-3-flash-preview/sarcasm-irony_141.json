@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_141",
+  "model_id": "gemini-3-flash-preview",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "fear",
+    "valence": 0.3772271433459673,
+    "arousal": -0.6838391059695856,
+    "dominance": -0.16875650757176985,
+    "confidence": 0.7322210788876675
+  },
+  "latency_ms": 236.07702734071094,
+  "timestamp": "2026-02-01T16:38:30.932371"
+}

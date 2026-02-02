@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_256",
+  "model_id": "grok-4-1-fast",
+  "success": true,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.6,
+    "arousal": 0.2,
+    "dominance": -0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 21803.394079208374,
+  "timestamp": "2026-02-01T04:09:26.186707"
+}

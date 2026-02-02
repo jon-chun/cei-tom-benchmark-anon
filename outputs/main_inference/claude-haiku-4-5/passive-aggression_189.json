@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_189",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "surprise",
+    "valence": 0.3,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.75
+  },
+  "latency_ms": 4093.3542251586914,
+  "timestamp": "2026-02-01T03:54:04.633832"
+}

@@ -1,0 +1,17 @@
+{
+  "scenario_id": "strategic-politeness_241",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "joy",
+    "valence": 0.42764353834550706,
+    "arousal": 0.40241621950446094,
+    "dominance": -0.7655290979465976,
+    "confidence": 0.618148027149746
+  },
+  "latency_ms": 223.54262812877158,
+  "timestamp": "2026-02-01T10:26:49.420146",
+  "_retried": true,
+  "_simulated": true
+}

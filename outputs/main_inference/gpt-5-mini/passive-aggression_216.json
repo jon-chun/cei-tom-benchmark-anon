@@ -1,0 +1,19 @@
+{
+  "scenario_id": "passive-aggression_216",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "fear",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": -0.3,
+    "confidence": 0.78,
+    "_original_emotion": "embarrassment",
+    "_repair_rationale": "Social threat response, anxiety-related"
+  },
+  "latency_ms": 1411.1721515655518,
+  "timestamp": "2026-02-01T03:48:23.183644",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.703143"
+}

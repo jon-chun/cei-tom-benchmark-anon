@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_261",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "surprise",
+    "valence": 0.3,
+    "arousal": 0.6,
+    "dominance": -0.4,
+    "confidence": 0.78
+  },
+  "latency_ms": 4062.0899200439453,
+  "timestamp": "2026-02-01T03:17:09.706742",
+  "prompt_hash": "8b0455014254ce7e131534bcfd82d9056d7832740d3a54233dbcdb30a32738e5",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:17:09.706789"
+}

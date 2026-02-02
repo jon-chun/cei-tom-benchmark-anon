@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_129",
+  "model_id": "accounts/fireworks/models/deepseek-v3p2",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.8,
+    "arousal": 0.7,
+    "dominance": -0.6,
+    "confidence": 0.8
+  },
+  "latency_ms": 24879.93597984314,
+  "timestamp": "2026-02-01T04:11:31.292644"
+}

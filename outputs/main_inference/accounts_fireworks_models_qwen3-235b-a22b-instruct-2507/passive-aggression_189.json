@@ -1,0 +1,15 @@
+{
+  "scenario_id": "passive-aggression_189",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "trust",
+    "valence": 0.7,
+    "arousal": 0.4,
+    "dominance": 0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 6323.0650424957275,
+  "timestamp": "2026-02-01T03:55:38.306693"
+}

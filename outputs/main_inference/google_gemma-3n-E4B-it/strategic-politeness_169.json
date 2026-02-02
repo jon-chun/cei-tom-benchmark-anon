@@ -1,0 +1,15 @@
+{
+  "scenario_id": "strategic-politeness_169",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "sadness",
+    "valence": -0.3,
+    "arousal": 0.3,
+    "dominance": -0.2,
+    "confidence": 0.8
+  },
+  "latency_ms": 1531.8291187286377,
+  "timestamp": "2026-02-01T03:53:27.871240"
+}

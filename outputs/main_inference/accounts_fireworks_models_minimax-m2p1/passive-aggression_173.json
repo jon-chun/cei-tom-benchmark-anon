@@ -1,0 +1,21 @@
+{
+  "scenario_id": "passive-aggression_173",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "passive_aggression",
+    "emotion": "sadness",
+    "valence": -0.7,
+    "arousal": -0.1,
+    "dominance": -0.5,
+    "confidence": 0.85
+  },
+  "latency_ms": 3662.057876586914,
+  "timestamp": "2026-02-01T03:30:12.261166",
+  "prompt_hash": "1fd6fd8552a0b7b4da2d74119c00aa4b15150279c334919e69213e866f7432b9",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:30:12.261225"
+}

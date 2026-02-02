@@ -1,0 +1,15 @@
+{
+  "scenario_id": "mixed-signals_245",
+  "model_id": "google/gemma-3n-E4B-it",
+  "success": true,
+  "prediction": {
+    "subtype": "mixed_signals",
+    "emotion": "sadness",
+    "valence": -0.4,
+    "arousal": 0.2,
+    "dominance": -0.3,
+    "confidence": 0.8
+  },
+  "latency_ms": 2253.690004348755,
+  "timestamp": "2026-02-01T03:48:12.630023"
+}

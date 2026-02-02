@@ -1,0 +1,19 @@
+{
+  "scenario_id": "strategic-politeness_115",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "fear",
+    "valence": -0.3,
+    "arousal": 0.0,
+    "dominance": -0.4,
+    "confidence": 0.74,
+    "_original_emotion": "embarrassment",
+    "_repair_rationale": "Social threat response, anxiety-related"
+  },
+  "latency_ms": 3105.165958404541,
+  "timestamp": "2026-02-01T03:51:07.172378",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.696964"
+}

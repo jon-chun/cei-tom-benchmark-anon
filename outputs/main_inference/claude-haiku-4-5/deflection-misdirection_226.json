@@ -1,0 +1,15 @@
+{
+  "scenario_id": "deflection-misdirection_226",
+  "model_id": "claude-haiku-4-5",
+  "success": true,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "fear",
+    "valence": -0.6,
+    "arousal": 0.7,
+    "dominance": -0.8,
+    "confidence": 0.85
+  },
+  "latency_ms": 4929.490804672241,
+  "timestamp": "2026-02-01T03:47:24.391613"
+}

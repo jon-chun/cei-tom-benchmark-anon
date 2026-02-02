@@ -1,0 +1,21 @@
+{
+  "scenario_id": "deflection-misdirection_37",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.7,
+    "dominance": -0.3,
+    "confidence": 0.85
+  },
+  "latency_ms": 2679.5341968536377,
+  "timestamp": "2026-02-01T03:20:05.229973",
+  "prompt_hash": "1668a56699a6aaa0acef87e8f45176f07a92ac073e47b7121d43baa29887ffe4",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:20:05.230028"
+}

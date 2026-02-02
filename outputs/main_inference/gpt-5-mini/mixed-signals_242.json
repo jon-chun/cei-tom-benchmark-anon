@@ -1,0 +1,19 @@
+{
+  "scenario_id": "mixed-signals_242",
+  "model_id": "gpt-5-mini",
+  "success": true,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "joy",
+    "valence": 0.4,
+    "arousal": 0.1,
+    "dominance": -0.2,
+    "confidence": 0.8,
+    "_original_emotion": "relief",
+    "_repair_rationale": "Positive resolution of tension"
+  },
+  "latency_ms": 1830.564022064209,
+  "timestamp": "2026-02-01T03:47:02.768625",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:36:43.702018"
+}

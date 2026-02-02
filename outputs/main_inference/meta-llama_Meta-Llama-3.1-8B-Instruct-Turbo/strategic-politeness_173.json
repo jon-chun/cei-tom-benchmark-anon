@@ -1,0 +1,21 @@
+{
+  "scenario_id": "strategic-politeness_173",
+  "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "strategic_politeness",
+    "emotion": "sadness",
+    "valence": 0.2,
+    "arousal": 0.4,
+    "dominance": 0.6,
+    "confidence": 0.8
+  },
+  "latency_ms": 610.5759143829346,
+  "timestamp": "2026-02-01T03:39:10.393381",
+  "prompt_hash": "ad19a459d31efd951b56805e3f9c3c59b536a00a764bc8976fcc5a6565278ff6",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:39:10.393430"
+}

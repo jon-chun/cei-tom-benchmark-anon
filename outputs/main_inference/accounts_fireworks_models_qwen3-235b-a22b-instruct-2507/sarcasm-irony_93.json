@@ -1,0 +1,15 @@
+{
+  "scenario_id": "sarcasm-irony_93",
+  "model_id": "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507",
+  "success": true,
+  "prediction": {
+    "subtype": "sarcasm_irony",
+    "emotion": "anger",
+    "valence": -0.6,
+    "arousal": 0.7,
+    "dominance": 0.3,
+    "confidence": 0.95
+  },
+  "latency_ms": 8238.040924072266,
+  "timestamp": "2026-02-01T03:58:26.428762"
+}

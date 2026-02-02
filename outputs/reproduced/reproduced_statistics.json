@@ -1,0 +1,224 @@
+{
+  "timestamp": "2026-02-02T13:49:33.945982",
+  "n_scenarios": 300,
+  "n_predictions": 3300,
+  "overall": {
+    "accuracy": 0.2961,
+    "correct": 977,
+    "total": 3300
+  },
+  "by_model": {
+    "accounts_fireworks_models_deepseek-v3p2": {
+      "accuracy": 0.18,
+      "correct": 54,
+      "total": 300
+    },
+    "accounts_fireworks_models_kimi-k2-instruct-0905": {
+      "accuracy": 0.3267,
+      "correct": 98,
+      "total": 300
+    },
+    "accounts_fireworks_models_minimax-m2p1": {
+      "accuracy": 0.3133,
+      "correct": 94,
+      "total": 300
+    },
+    "accounts_fireworks_models_qwen3-235b-a22b-instruct-2507": {
+      "accuracy": 0.3567,
+      "correct": 107,
+      "total": 300
+    },
+    "claude-haiku-4-5": {
+      "accuracy": 0.3467,
+      "correct": 104,
+      "total": 300
+    },
+    "gemini-3-flash-preview": {
+      "accuracy": 0.11,
+      "correct": 33,
+      "total": 300
+    },
+    "google_gemma-3n-E4B-it": {
+      "accuracy": 0.32,
+      "correct": 96,
+      "total": 300
+    },
+    "gpt-5-mini": {
+      "accuracy": 0.3333,
+      "correct": 100,
+      "total": 300
+    },
+    "grok-4-1-fast": {
+      "accuracy": 0.36,
+      "correct": 108,
+      "total": 300
+    },
+    "meta-llama_Meta-Llama-3.1-8B-Instruct-Turbo": {
+      "accuracy": 0.2533,
+      "correct": 76,
+      "total": 300
+    },
+    "mistralai_Mistral-Small-24B-Instruct-2501": {
+      "accuracy": 0.3567,
+      "correct": 107,
+      "total": 300
+    }
+  },
+  "by_subtype": {
+    "deflection-misdirection": {
+      "accuracy": 0.3606,
+      "correct": 238,
+      "total": 660
+    },
+    "mixed-signals": {
+      "accuracy": 0.3545,
+      "correct": 234,
+      "total": 660
+    },
+    "passive-aggression": {
+      "accuracy": 0.2,
+      "correct": 132,
+      "total": 660
+    },
+    "sarcasm-irony": {
+      "accuracy": 0.2697,
+      "correct": 178,
+      "total": 660
+    },
+    "strategic-politeness": {
+      "accuracy": 0.2955,
+      "correct": 195,
+      "total": 660
+    }
+  },
+  "by_power_relation": {
+    "higher_to_lower": {
+      "accuracy": 0.3056,
+      "correct": 195,
+      "total": 638
+    },
+    "lower_to_higher": {
+      "accuracy": 0.241,
+      "correct": 114,
+      "total": 473
+    },
+    "peer": {
+      "accuracy": 0.3052,
+      "correct": 668,
+      "total": 2189
+    }
+  },
+  "confusion_matrix": {
+    "joy": {
+      "trust": 46,
+      "sadness": 35,
+      "anger": 38,
+      "unknown": 8,
+      "joy": 25,
+      "anticipation": 26,
+      "surprise": 25,
+      "disgust": 8,
+      "fear": 20
+    },
+    "surprise": {
+      "disgust": 34,
+      "anger": 330,
+      "sadness": 107,
+      "anticipation": 28,
+      "surprise": 82,
+      "trust": 35,
+      "fear": 83,
+      "joy": 29,
+      "unknown": 31
+    },
+    "trust": {
+      "trust": 45,
+      "sadness": 68,
+      "anger": 77,
+      "fear": 35,
+      "disgust": 2,
+      "anticipation": 23,
+      "joy": 19,
+      "surprise": 17,
+      "unknown": 11
+    },
+    "anger": {
+      "anger": 366,
+      "sadness": 81,
+      "trust": 17,
+      "joy": 16,
+      "anticipation": 14,
+      "fear": 42,
+      "disgust": 4,
+      "surprise": 16,
+      "unknown": 16
+    },
+    "sadness": {
+      "anger": 216,
+      "sadness": 283,
+      "surprise": 39,
+      "trust": 42,
+      "anticipation": 14,
+      "joy": 25,
+      "fear": 58,
+      "disgust": 15,
+      "unknown": 23
+    },
+    "fear": {
+      "trust": 14,
+      "sadness": 40,
+      "anger": 76,
+      "fear": 128,
+      "anticipation": 12,
+      "joy": 9,
+      "surprise": 7,
+      "unknown": 11
+    },
+    "anticipation": {
+      "anticipation": 46,
+      "anger": 113,
+      "sadness": 51,
+      "trust": 24,
+      "fear": 37,
+      "joy": 10,
+      "surprise": 10,
+      "unknown": 6
+    },
+    "disgust": {
+      "anger": 68,
+      "anticipation": 4,
+      "joy": 5,
+      "trust": 3,
+      "sadness": 9,
+      "fear": 9,
+      "surprise": 25,
+      "disgust": 2,
+      "unknown": 7
+    }
+  },
+  "human_analysis": {
+    "by_subtype": {
+      "deflection-misdirection": 60,
+      "mixed-signals": 60,
+      "passive-aggression": 60,
+      "sarcasm-irony": 60,
+      "strategic-politeness": 60
+    },
+    "by_power_relation": {
+      "peer": 199,
+      "higher_to_lower": 58,
+      "lower_to_higher": 43
+    },
+    "by_emotion": {
+      "surprise": 69,
+      "disgust": 12,
+      "sadness": 65,
+      "anger": 52,
+      "anticipation": 27,
+      "trust": 27,
+      "fear": 27,
+      "joy": 21
+    },
+    "agreement_rate": 0.6867
+  }
+}

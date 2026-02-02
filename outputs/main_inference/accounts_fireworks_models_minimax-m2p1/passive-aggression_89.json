@@ -1,0 +1,25 @@
+{
+  "scenario_id": "passive-aggression_89",
+  "model_id": "accounts/fireworks/models/minimax-m2p1",
+  "success": true,
+  "error": null,
+  "prediction": {
+    "subtype": "deflection",
+    "emotion": "anger",
+    "valence": -0.3,
+    "arousal": 0.1,
+    "dominance": 0.2,
+    "confidence": 0.75,
+    "_original_emotion": "frustration",
+    "_repair_rationale": "Blocked goal, anger precursor"
+  },
+  "latency_ms": 2764.3089294433594,
+  "timestamp": "2026-02-01T03:28:43.977728",
+  "prompt_hash": "3343cef9a91b207ec634d0ab456a4747b504c026c43808548e2a6ebd28e3083c",
+  "source_stage": "pilot_test",
+  "intervention": null,
+  "from_cache": true,
+  "cached_at": "2026-02-01T03:28:43.977783",
+  "_repaired": true,
+  "_repair_timestamp": "2026-02-01T10:26:29.591508"
+}
